@@ -2645,24 +2645,24 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/datapacks/DragonEggLoot.zip"
-hash = "4723e8852a57118019beec1fa347eace2159fb02509ee8331ea3c950a32910d2"
+file = "config/paxi/datapacks/craftable_coral.pw.toml"
+hash = "dd9d00c11ee297aa15285cd4e9c30f79a69c3decf4c3ad86144510b636e5cb28"
+metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/craftable_coral_block_2x2_MC1.21-1.21.11.zip"
-hash = "d6dffaea8559e23f50da3deb91f1f10c874a2684755febf135d20dae736ec108"
+file = "config/paxi/datapacks/craftable_gravel.pw.toml"
+hash = "83b728dc9ab5023fd8ca7fbf62c5ba40d6f59dc5d62c072bf28e402335939b1c"
+metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/craftable_gravel_MC1.21-1.21.11.zip"
-hash = "b53de3a9bdc8086cfb095a0adc9cdda8aaa9334a7803706ccda6167c1b3134ef"
+file = "config/paxi/datapacks/doubleShulker.pw.toml"
+hash = "83041feac596026ec51c018486a5cba93ca1e1b7a73b60fd81c3c418cdec0d49"
+metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/double shulker shells v1.3.15 (MC 1.21-1.21.11).zip"
-hash = "74b6590d8fb41baf6c5bd12ba878ee649eed730ef6ad41318a9b27cc07652c7a"
-
-[[files]]
-file = "config/paxi/datapacks/drowneddroptridents.zip"
-hash = "a2f51c0717d54f3e6036ca2000b87cca7da76eb5f777b56dca47c67a21b86a6d"
+file = "config/paxi/datapacks/dragon_egg_loot.pw.toml"
+hash = "2cb611e0849fb7df3ccd8539fe0c62b159fb446b3fa08cba671c7252d86caac9"
+metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/drowns-drop-tridents.pw.toml"
@@ -2670,28 +2670,29 @@ hash = "553b7a6be5f3b2d65bbf1d1725548640fd84b3d24b102b534a57f517f64fc517"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/mini blocks v1.1.5 (MC 1.21-1.21.11).zip"
-hash = "84ebd13d7a76ec35c4da8e9e444e6d8369cfb8f00726ab76ced6761fcc49e23c"
+file = "config/paxi/datapacks/mini_blocks.pw.toml"
+hash = "223ff6ccc0fb0c651c9ce09ba9f804dd731f9c7a12792cc8cb74f06dd2e29cf3"
+metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/more_trapdoors_MC1.21-1.21.11.zip"
-hash = "e8b06e5acf97ecec6d31fd3535e49eaabd368dbbfa372394111366a0d2c33806"
+file = "config/paxi/datapacks/moreTrapdoors.toml"
+hash = "610d5c3cf7109b61f5fcb82611672c8bd153d20afe9f43b2e7b193e3640ef636"
 
 [[files]]
-file = "config/paxi/datapacks/name colors v1.0.13 (MC 1.21-1.21.11).zip"
-hash = "4123acf5dfd33fd23d202c8d0850688d5a711b78c4d12f5421ef95c3f5cb2968"
+file = "config/paxi/datapacks/name_colors.toml"
+hash = "c87a7128a20bec578c440b2a613effcede8038842fdf0a685592b4bf0807c4c1"
 
 [[files]]
-file = "config/paxi/datapacks/terralith_no_poop.zip"
-hash = "1d114b7b2bb699209e76b43c37c7b77e11549ab097e8d64bdbfdb61f9cdd6a6f"
+file = "config/paxi/datapacks/terralithNOPOOP.toml"
+hash = "39da7648e2f8d59b49bed9191c014dc6995a3eb6c1356a8a9883c5dc10934957"
 
 [[files]]
-file = "config/paxi/datapacks/villager death messages v1.2.17 (MC 1.21-1.21.11).zip"
-hash = "63222b446f757a47b8c2f56f17a5e9472e316f0cae120bf10091d3c24fba0ec8"
+file = "config/paxi/datapacks/villagerDeathMessage.toml"
+hash = "26b4226b784655b324565e90c16b3d0fa62d576c0ce6c5e9ff5476fa26228305"
 
 [[files]]
-file = "config/paxi/datapacks/villager workstation highlights v1.1.15 (MC 1.21-1.21.11).zip"
-hash = "246cec4936d7e485d54f0d341e890b3f7ef2e905b1071f2b553da0aecbf988c3"
+file = "config/paxi/datapacks/villagerWorkstation.toml"
+hash = "a72ac08847fd13fee05f011ee970fc4db9a6fc904098d5c67dd19059e36651a6"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -2791,7 +2792,7 @@ hash = "91b28acace54fb44b1111e2cf22b4245dc7452416818a4c03eb3e1b314ee1dc2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "1cab1e1beef2a63354027d6a5f8ce299fee685dd5387d7fd21125c487c50c4c1"
+hash = "501e4411812bf73d136b3d124bddf8246ae423e3622ddcaf051dc85742dd1d2d"
 
 [[files]]
 file = "config/responsive-shields.toml"
@@ -4192,6 +4193,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "468437635c3a2963b8d035046a40dae06096d0db1d49cad0488cb1c1d04b4dc7"
 metafile = true
 
 [[files]]
