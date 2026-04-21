@@ -1,0 +1,8 @@
+name = "Charred Skeleton"
+filename = "Consistent Naming - Charred.zip"
+side = "client"
+
+[download]
+url = "https://example.com"
+hash-format = "sha256"
+hash = "9f8beaa75b5466b75ded1e9ba9f8cc2e74463b3ea15e6acb635409a71d9c689c"

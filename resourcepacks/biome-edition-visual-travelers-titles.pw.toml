@@ -1,0 +1,13 @@
+name = "Biome Edition Visual Traveler's Titles"
+filename = "Biome Edition Traveler's Titles by ImEvolutiON V1.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RUe95ROZ/versions/NBg7Ndkd/Biome%20Edition%20Traveler%27s%20Titles%20by%20ImEvolutiON%20V1.3.zip"
+hash-format = "sha512"
+hash = "97a585879a7218178b2d048be1816290188e5e0af2f322270bf92365a7ea85a39c91c4e52ef11f2a857df4395c97fbe2b784bdd83da6c6956753e63d41313fc4"
+
+[update]
+[update.modrinth]
+mod-id = "RUe95ROZ"
+version = "NBg7Ndkd"

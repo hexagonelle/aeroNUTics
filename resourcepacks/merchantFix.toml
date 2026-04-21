@@ -1,0 +1,8 @@
+name = "Merchant_Fix"
+filename = "Merchant_Fix.zip"
+side = "client"
+
+[download]
+url = "https://example.com"
+hash-format = "sha256"
+hash = "71c24740f6e744f464393623fb127725cf683ebb4d59749e0e18a1889db579b6"

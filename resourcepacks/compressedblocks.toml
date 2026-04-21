@@ -1,0 +1,8 @@
+name = "CompressedBlocks"
+filename = "CompressedBlocks.zip"
+side = "client"
+
+[download]
+url = "https://example.com"
+hash-format = "sha256"
+hash = "de3711e0cd6552e2b76d8181b42b4fff8ab6b61d1828e00975b4edb16f90dc6a"

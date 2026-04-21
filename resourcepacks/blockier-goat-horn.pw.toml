@@ -1,0 +1,13 @@
+name = "(Bee's) Blockier Goat Horn"
+filename = "Blockier Goat Horn v1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b574c262d271c59c6489a4d25648ab6ef33ede3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7094799
+project-id = 695817

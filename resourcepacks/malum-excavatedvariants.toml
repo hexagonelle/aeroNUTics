@@ -1,0 +1,8 @@
+name = "Malum Excavated Variants"
+filename = "malum-excavatedvariants.zip"
+side = "client"
+
+[download]
+url = "https://example.com"
+hash-format = "sha256"
+hash = "ce6e66c8c18f59d4e9bef653fc3fc7601a488c087d7c9b800cb15ff77a03c911"

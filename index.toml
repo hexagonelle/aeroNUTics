@@ -5025,112 +5025,118 @@ hash = "0a27bc0ea8ab5798acbbd595f33f2d07b8d8392bbfd17065e834e89969af7c8d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/AsYasya's Legacy Copper.zip"
-hash = "2bd351c7ee16a76b4e9e16942efc33f8ff7f7b334f152748e6d615e7191242da"
+file = "resourcepacks/3d-crops.pw.toml"
+hash = "82e610917524c6f1af58e102a1be333665ee9af1649477aae0546a30d1ae3114"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Blockier Goat Horn v1.2.zip"
-hash = "ce3cb7f812dadcf947a46e9b52dc930b964c677700e9f26afea1bc7dbc5cb162"
+file = "resourcepacks/VanillaTweaks_r175773_MC1.21.x.toml"
+hash = "93ad817bfdc91e01e2037e6440e8277a4e6121dafa761190930c26206a458c85"
 
 [[files]]
-file = "resourcepacks/CompressedBlocks.zip"
-hash = "de3711e0cd6552e2b76d8181b42b4fff8ab6b61d1828e00975b4edb16f90dc6a"
+file = "resourcepacks/armory-conglomery.pw.toml"
+hash = "ba79bebe9e4774fed3cf6fcdaaab1fae80ed578c68b3289aebd1b642b9360133"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Consistent Naming - Charred.zip"
-hash = "9f8beaa75b5466b75ded1e9ba9f8cc2e74463b3ea15e6acb635409a71d9c689c"
+file = "resourcepacks/asyasas-legacy-copper.pw.toml"
+hash = "9995fc0f9650e6edfb2fc94c76a036cdb30a680b356fd36be0b5237984b13ae9"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Create Immersive Aircrafts Resource Pack 1.21.1 - 3.0.zip"
-hash = "c7dd29c657c4e8a15661ac9283fa8749d92be0ee1c6eda5188262261e12cf3cb"
+file = "resourcepacks/biome-edition-visual-travelers-titles.pw.toml"
+hash = "0de17264cefa876cd6508fb5aad4122ba187a7d6de6109b5edd4b4a2666f596a"
+metafile = true
 
 [[files]]
-file = "resourcepacks/CreateSophBackpacks.zip"
-hash = "cb63a5a33c142ce588f1df020c7d4615f57f0e312064e03d4e7901060803905d"
+file = "resourcepacks/blockier-goat-horn.pw.toml"
+hash = "dc2786ed4797929fc53b45fe11e6e43078b3ffdb4c0a235bbb463c122f4b5bf5"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Explorer_Compass_Retexture.zip"
-hash = "5c23815e8b0ecc16c22e8a70154c39bab088a60ff6f71ba11010db77f844905d"
+file = "resourcepacks/charred.toml"
+hash = "9ff54d3942955745daad064f98965d115a65618c39e96726ec3bde5e85000860"
 
 [[files]]
-file = "resourcepacks/FreshAnimations_v1.10.3.zip"
-hash = "999fbdfe9cddcbadeaaa02827f0583dc3d38d8f264146301cb88395d18df85a9"
+file = "resourcepacks/compressedblocks.toml"
+hash = "199bf686d270962729a7de33a02f0060efebd3651dd1c5e8155e79f2f906716e"
 
 [[files]]
-file = "resourcepacks/FreshCompats_v1.6.zip"
-hash = "0fe5e8edb0d7806fe8aa703ce61a6f2f2ec6ed0dd2e1afbf7ee617a33321445f"
+file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Magex's Ender Dragon.zip"
-hash = "5a16335ca99a83e77ed1102d681eeb7f081427075e615f142e880e1047aaac0a"
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "6d198fcead3ae516d33d9011f3ecf9717a72b963aadea7a6b3ad7f0c7cada070"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Merchant_Fix.zip"
-hash = "71c24740f6e744f464393623fb127725cf683ebb4d59749e0e18a1889db579b6"
+file = "resourcepacks/explorercompassretext.toml"
+hash = "3e41e17de4cfd3aee3dacb8bd03f1d7313b2c3a92206892954612feb0a7929c8"
 
 [[files]]
-file = "resourcepacks/Newer Age v0.2.zip"
-hash = "82c46fd9ba2b871dc71bba58856b71500444e55573bbc3f41846ae3c5965f9fc"
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
+metafile = true
 
 [[files]]
-file = "resourcepacks/REVIVED_Farmer's Delight_crops_3D_R1.5.1-1.20.x.zip"
-hash = "0e24594186f6596df7d5290dda893a9e755c1aff088c7104e7026faab3cc939a"
+file = "resourcepacks/fresh-compats.pw.toml"
+hash = "177f1c99727cc979bca59e570feb006e45a09b70abf381257fe5591d1e818993"
+metafile = true
 
 [[files]]
-file = "resourcepacks/SilentConglomery.zip"
-hash = "e91e459a94ec5cdb4c9acf3389771b20b7169d0122c4d968f34fd425243e1e93"
+file = "resourcepacks/magexsenderdragon.pw.toml"
+hash = "dc207c87df190d6a8c0d9558bc5a7b7a119c652e4d4da1f52079b22064cf9d4e"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Slightly-Improved-Font-1.1.5.zip"
-hash = "b991537dd86f7dee818d8d059b8beb21d17d606ae797865e0c71b8cc9918c1de"
+file = "resourcepacks/malum-excavatedvariants.toml"
+hash = "bf1e1c520e6a96360079f5ab9dc3464e6381e8019b26226716720253db875399"
 
 [[files]]
-file = "resourcepacks/Sophisticated Quark.zip"
-hash = "7cecf06e686104ccc65b6b77d6bf79a26351c5a78ee68337647c12b417ad118c"
+file = "resourcepacks/merchantFix.toml"
+hash = "3b2de70c6de0031f7674966db4b71171577829e655f1b40052296cd93ba0142f"
 
 [[files]]
-file = "resourcepacks/The Wither, King of the Nether.zip"
-hash = "2543bddfde499c4e066de88c77008f310af1319a58814b8e093034bc6bea8f49"
+file = "resourcepacks/mobs-refreshed-+-fresh-animations.pw.toml"
+hash = "14c958fa07ef8887020adddba0e80d64599d62cc99b3f2e79fb2b8344b8cf118"
+metafile = true
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r175773_MC1.21.x.zip"
-hash = "2e408d2205c001c2aeb5289380a5c804f95f5c18411d49c5c32799d6c175d7aa"
+file = "resourcepacks/newer-age.pw.toml"
+hash = "14c94047be0920f25907ce5f9a47707453185eed9e9d16e8712381eac9167cc3"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Visual Titles 1.3.zip"
-hash = "7a08d58bc4c31767d08c98f0b824433eaa4b842b1dd8695e9e2b1d7ee856598b"
+file = "resourcepacks/revived-farmers-delight-crops-3d.pw.toml"
+hash = "9960ade10e14065c58bfb9741b5047ca8e8e9bd6827df44839f10f74f553a317"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Visual Travelers Titles Biomes Addon.zip"
-hash = "29f29fe44316f72fde4a6ffda93d214c26ab66f1c4969788d9d7bf34e6aad702"
+file = "resourcepacks/slightly-improved-font.pw.toml"
+hash = "841804ccbe93cc1c68a1565ec47bb0c56e8e42b56e3d6caf4ef5d2fdf30342a7"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Zombie_Variants_MC1.19.x.zip"
-hash = "d4b4d47d82b09bd76d52ea47c3c87d6f2ef263b4bb11f56b7a16a9993a70c1ac"
+file = "resourcepacks/sophisticated-quark.pw.toml"
+hash = "e1e8611a93ee4bd1646d6327d60db908c12e9cf88e7c447f205eddb6a6080f81"
+metafile = true
 
 [[files]]
-file = "resourcepacks/armory-conglomery-v2.2.zip"
-hash = "fe89f454d8f718c23f2327f14a20b95926523cbf1705e51d4b91a8e99288e552"
+file = "resourcepacks/the-wither-king-of-the-nether.pw.toml"
+hash = "4eb4a41a6ea83bf60e19feb42116e823e9099de35a98e8c9455ed1142e5e325a"
+metafile = true
 
 [[files]]
-file = "resourcepacks/crops-3d(2).zip"
-hash = "d63df002bd227c00ee11b8b5f64b751b152b3e0f883a135c2496564703bf67c5"
+file = "resourcepacks/villagers-refreshed-+-fresh-animations.pw.toml"
+hash = "b7a7b654984ce155fd1d9909e452a7305a3960a7c45a219976a9630cfabd67bc"
+metafile = true
 
 [[files]]
-file = "resourcepacks/cubic-sun-moon-v1.8.5.zip"
-hash = "c3712a3ba511d35201d44bafce16c9d36e7185d6743aab02207bda0d5d109ede"
-
-[[files]]
-file = "resourcepacks/malum-excavatedvariants.zip"
-hash = "ce6e66c8c18f59d4e9bef653fc3fc7601a488c087d7c9b800cb15ff77a03c911"
-
-[[files]]
-file = "resourcepacks/mobs-refreshed-fa-v2.2.zip"
-hash = "f5386f79e98c7f82a8ee78c535b4b4c3ffd704cc1a3f01f4e7431368aeaff2e4"
-
-[[files]]
-file = "resourcepacks/villagers-refrehsed+FA-v1.0.zip"
-hash = "15ae37de794c14efd177e2a7c52bd404d54eb6678127a569f3de42210a545bdd"
+file = "resourcepacks/visual-travelers-titles.pw.toml"
+hash = "6dc2fb07f22e7ab4d62399bf38e7287ae9d00177718b5b21ba6cc17bdcf9d9e7"
+metafile = true
 
 [[files]]
 file = "updatescript.sh"

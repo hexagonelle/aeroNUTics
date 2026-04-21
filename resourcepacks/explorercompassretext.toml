@@ -1,0 +1,8 @@
+name = "Explorer Compass Retexture"
+filename = "Explorer_Compass_Retexture.zip"
+side = "client"
+
+[download]
+url = "https://example.com"
+hash-format = "sha256"
+hash = "5c23815e8b0ecc16c22e8a70154c39bab088a60ff6f71ba11010db77f844905d"
