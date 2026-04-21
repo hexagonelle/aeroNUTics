@@ -1,0 +1,13 @@
+name = "Truly Modular: Modular Item API"
+filename = "Truly-Modular-miapi-neoforge-2.3.5-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c4Uf1TKc/versions/4qXvfS7U/Truly-Modular-miapi-neoforge-2.3.5-1.21.jar"
+hash-format = "sha512"
+hash = "fb7a01201483eb1a039d966caeed88c6f32a09295747bb6569268212e6971fbce1c8df3923e7ec4479a470f26881323859935f58f3f6d5887e505cea5044fe40"
+
+[update]
+[update.modrinth]
+mod-id = "c4Uf1TKc"
+version = "4qXvfS7U"

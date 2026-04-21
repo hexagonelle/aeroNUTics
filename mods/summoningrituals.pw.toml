@@ -1,0 +1,13 @@
+name = "Summoning Rituals"
+filename = "summoningrituals-neoforge-1.21.1-3.12.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/19smZ71v/versions/Du0PBH5d/summoningrituals-neoforge-1.21.1-3.12.0.jar"
+hash-format = "sha512"
+hash = "63b5779e7605413205cd6be6e758de9b88922d390d131c4b9753902a71867c2158515625e3196cdbefae2c5f7b77fd480b45f2da97fa81fdfdb81c554c1106a8"
+
+[update]
+[update.modrinth]
+mod-id = "19smZ71v"
+version = "Du0PBH5d"

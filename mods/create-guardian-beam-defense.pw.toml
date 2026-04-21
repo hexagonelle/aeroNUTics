@@ -1,0 +1,13 @@
+name = "Create Guardian Beam Defense"
+filename = "Create-Guardian-Beam-Defense-1.3.5b-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pwPEdvXO/versions/RA6L4Fb0/Create-Guardian-Beam-Defense-1.3.5b-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "71361f4c843d1922537802433150d5e3f812a2839125482039418d4130384a6f7c7cf0ee70253eedda4d03b54df2ef5b141d4e8c09eaea08a30de465d0b3cb45"
+
+[update]
+[update.modrinth]
+mod-id = "pwPEdvXO"
+version = "RA6L4Fb0"

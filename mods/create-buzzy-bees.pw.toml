@@ -1,0 +1,13 @@
+name = "Create: Buzzy Bees"
+filename = "cbbees-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eYbO4GyQ/versions/f1kjmc5f/cbbees-1.2.1.jar"
+hash-format = "sha512"
+hash = "7ed81d72d13fffe191c62b1bb99bd6c5f184d6865dbba9c0f1e1ab8a0bb99e39b2827afeff1b5be7a95b3b0c72a85a6f445e610fcbc912a1ac7169f6f8fdcb79"
+
+[update]
+[update.modrinth]
+mod-id = "eYbO4GyQ"
+version = "f1kjmc5f"

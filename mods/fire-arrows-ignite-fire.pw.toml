@@ -1,0 +1,13 @@
+name = "Fire Arrows Ignite Fire"
+filename = "firearrows-neoforge-1.21.1-13.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/NoajjpZQ/versions/R9LSIyGu/firearrows-neoforge-1.21.1-13.3.jar"
+hash-format = "sha512"
+hash = "130f6adef1a9dc9f79b502629bf2b151403140a70819d015c5cd2e9346a90b73a4a4875770c9c2dd35fdf969d708c69ef169e646e4e39a6a635a732fa71a9899"
+
+[update]
+[update.modrinth]
+mod-id = "NoajjpZQ"
+version = "R9LSIyGu"

@@ -1,0 +1,13 @@
+name = "End Respawn Anchor"
+filename = "EndRespawnAnchorMod.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xmdHQIdW/versions/1HZhYien/EndRespawnAnchorMod.jar"
+hash-format = "sha512"
+hash = "cff991bf3a72e6efabc25f6115c727ea7b7188e1a88b67cfebdccb1d84fa46818a76b043bc3233d795e02f7e31b419f61a61ccdaae263a155c9ac83bafe53e57"
+
+[update]
+[update.modrinth]
+mod-id = "xmdHQIdW"
+version = "1HZhYien"

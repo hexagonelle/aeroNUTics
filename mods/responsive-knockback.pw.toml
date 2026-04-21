@@ -1,0 +1,13 @@
+name = "Responsive Knockback"
+filename = "responsiveknockback-1.1-neoforge-mc1.20.5-1.21.x.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FMQ7tQOa/versions/ptz4V6RX/responsiveknockback-1.1-neoforge-mc1.20.5-1.21.x.jar"
+hash-format = "sha512"
+hash = "99fc9776d17eaf91af7af96b5fcdedaaa5abea18b6eee44b49b0be65c113c1646d0d7e7b56731f4751c2c0752f060a2c8fe731c6c8f0da4c95d2a6a26f27a544"
+
+[update]
+[update.modrinth]
+mod-id = "FMQ7tQOa"
+version = "ptz4V6RX"

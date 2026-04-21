@@ -1,0 +1,13 @@
+name = "SlimyBoyos"
+filename = "SlimyBoyos-neoforge-1.21.1-14.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aT62gFqe/versions/F9UgAKQA/SlimyBoyos-neoforge-1.21.1-14.0.2.jar"
+hash-format = "sha512"
+hash = "6d52c045c12772aaf34b3b987ceb546c35171f4388b1df06829fba96647d0bac16f70d30ae69cd9b9cef5fc7ac51cf89c5d169a93523ac8aae634f84a1407ab0"
+
+[update]
+[update.modrinth]
+mod-id = "aT62gFqe"
+version = "F9UgAKQA"

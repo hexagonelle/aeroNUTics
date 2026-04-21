@@ -1,0 +1,13 @@
+name = "Passthrough Signs"
+filename = "PassthroughSigns-neoforge-1.21-2.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LJacrKXW/versions/2VrWTKig/PassthroughSigns-neoforge-1.21-2.7.2.jar"
+hash-format = "sha512"
+hash = "f83d453af3c394c498313a9ae34f750d05135fb95e5bf194f664874517ff3d79b378fc522d61a35a2b40220fdde1dcbbaac254cffd9b5b4dd5c4319750163c43"
+
+[update]
+[update.modrinth]
+mod-id = "LJacrKXW"
+version = "2VrWTKig"

@@ -1,0 +1,13 @@
+name = "Create Better Baking"
+filename = "createbetterbaking-2.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aFxsgmUu/versions/GgoJUSvH/createbetterbaking-2.0.1-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "127d35ec04cc898a84d3a86b322867f3620f376b713aeed581111d6ebf50fc6781248229c3c2b9bb83a3e70fada00458b485612a06190969dfdca3e721aeb913"
+
+[update]
+[update.modrinth]
+mod-id = "aFxsgmUu"
+version = "GgoJUSvH"

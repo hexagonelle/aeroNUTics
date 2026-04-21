@@ -1,0 +1,13 @@
+name = "NoMoWanderer"
+filename = "nomowanderer-neoforge-1.21.1-1.10.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BAGslLB8/versions/eVB3qbla/nomowanderer-neoforge-1.21.1-1.10.2.jar"
+hash-format = "sha512"
+hash = "337140e0580a5f58752997bd16a4289f73b7c292d53d59a38e7eea638d33c277978f0a04de2b6522184a59e8f01e3e6b7ee434a707dc1629b3a89291199c6d53"
+
+[update]
+[update.modrinth]
+mod-id = "BAGslLB8"
+version = "eVB3qbla"
