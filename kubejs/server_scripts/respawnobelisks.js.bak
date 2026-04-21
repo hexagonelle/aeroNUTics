@@ -1,0 +1,40 @@
+ServerEvents.recipes(event => {
+	event.shaped("respawnobelisks:respawn_obelisk",
+		[
+			'ABA',
+			'BCB',
+			'ABA'
+		],
+		{
+			A: "minecraft:stone_bricks",
+			B: "minecraft:ender_pearl",
+			C: "respawnobelisks:dormant_obelisk"
+		}
+	)
+
+	event.shaped("respawnobelisks:respawn_obelisk_nether",
+		[
+			'ABA',
+			'BCB',
+			'ABA'
+		],
+		{
+			A: "minecraft:nether_bricks",
+			B: "minecraft:ender_pearl",
+			C: "respawnobelisks:dormant_obelisk"
+		}
+	)
+
+	event.shaped("respawnobelisks:respawn_obelisk_end",
+		[
+			'ABA',
+			'BCB',
+			'ABA'
+		],
+		{
+			A: "minecraft:end_stone_bricks",
+			B: "minecraft:ender_pearl",
+			C: "respawnobelisks:dormant_obelisk"
+		}
+	)
+})

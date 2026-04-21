@@ -1,0 +1,34 @@
+ServerEvents.recipes(event => {
+	event.shaped(Item.of("minecraft:torch",16),
+		[
+			'A',
+			'B',
+		],
+		{
+			A: "minecraft:glowstone_dust",
+			B: "#forge:rods/wooden"
+		}
+	)
+
+	event.shaped(Item.of("minecraft:torch",24),
+		[
+			'A',
+			'B',
+		],
+		{
+			A: "minecraft:blaze_powder",
+			B: "#forge:rods/wooden"
+		}
+	)
+
+	event.shaped(Item.of("minecraft:torch",16),
+		[
+			'A',
+			'B',
+		],
+		{
+			A: "minecraft:glow_ink_sac",
+			B: "#forge:rods/wooden"
+		}
+	)
+})
