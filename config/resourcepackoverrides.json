@@ -1,3 +1,56 @@
 {
-  "schema_version": "2"
+	"schema_version": "2", 
+
+	"default_packs": [
+		"file/FreshAnimations_v1.10.4.zip",
+		"file/FreshCompats_v1.6.zip",
+		"file/villagers-refreshed+FA-v1.0.zip",
+		"file/mobs-refreshed-fa-v2.2.zip",
+		"file/Merchant_Fix.zip",
+
+		"file/VanillaTweaks_r175773_MC1.21.x.zip",
+		"file/armory-conglomery-v2.2.zip",
+		"file/cubic-sun-moon-v1.8.5.zip",
+		"file/crops-3d(2).zip",
+		"file/REVIVED_Farmer's Delight_crops_3D_R1.5.1-1.20.x.zip",
+		"file/Blockier Goat Horn v.1.2.zip",
+		"file/Magex's Ender Dragon.zip",
+		"file/Consistent Naming - Charred.zip",
+
+		"file/Slightly-Improved-Font-1.1.5.zip",
+
+		"file/malum-excavatedvariants.zip",
+		"file/Explorer_Compass_Retexture.zip",
+		"file/CompressedBlocks.zip",
+
+		"file/Visual Titles 1.3.zip",
+		"file/Biome Edition Traveler's Titles by ImEvolutiON V1.3.zip",
+		
+		"file/The Wither, King of the Nether.zip",
+		"file/Sophisticated Quark.zip",
+
+		"file/Newer Age v0.2.zip",
+		"file/CreateSophBackpacks.zip",
+		"file/AsYasya's Legacy Copper.zip"
+
+	],
+	// All packs will show as compatible with the current Minecraft version and will not display a warning when enabled
+	"default_overrides": {
+		"force_compatible": true
+	},
+
+	"1": [
+			"vanilla",
+			"fabric",
+			"mod_resources",
+			"moonlight:merged_pack",
+			"quark_programmer_art",
+			"programmer_art"
+		],
+		// Attributes are configured for all packs in group "1"
+		// Note that referencing a group id must begin with "$$"
+		"$$1": {
+			"hidden": true,
+			"required": true
+		}
 }
