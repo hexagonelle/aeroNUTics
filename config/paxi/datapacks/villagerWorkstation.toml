@@ -1,0 +1,8 @@
+name = "villager workstation highlights v1.1.15 (MC 1.21-1.21.11)"
+filename = "villager workstation highlights v1.1.15 (MC 1.21-1.21.11).zip"
+side = "both"
+
+[download]
+url = "https://example.com"
+hash-format = "sha256"
+hash = "246cec4936d7e485d54f0d341e890b3f7ef2e905b1071f2b553da0aecbf988c3"

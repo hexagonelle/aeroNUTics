@@ -1,0 +1,8 @@
+name = "Double Shulker"
+filename = "double shulker shells v1.3.15 (MC 1.21-1.21.11).zip"
+side = "both"
+
+[download]
+url = "https://example.com"
+hash-format = "sha256"
+hash = "74b6590d8fb41baf6c5bd12ba878ee649eed730ef6ad41318a9b27cc07652c7a"

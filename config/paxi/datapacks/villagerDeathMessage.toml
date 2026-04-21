@@ -1,0 +1,8 @@
+name = "villager death messages v1.2.17 (MC 1.21-1.21.11)"
+filename = "villager death messages v1.2.17 (MC 1.21-1.21.11).zip"
+side = "both"
+
+[download]
+url = "https://example.com"
+hash-format = "sha256"
+hash = "63222b446f757a47b8c2f56f17a5e9472e316f0cae120bf10091d3c24fba0ec8"

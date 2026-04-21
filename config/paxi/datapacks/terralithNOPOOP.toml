@@ -1,0 +1,8 @@
+name = "terralith_no_poop"
+filename = "terralith_no_poop.zip"
+side = "both"
+
+[download]
+url = "https://example.com"
+hash-format = "sha256"
+hash = "1d114b7b2bb699209e76b43c37c7b77e11549ab097e8d64bdbfdb61f9cdd6a6f"

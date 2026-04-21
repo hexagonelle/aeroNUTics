@@ -1,0 +1,13 @@
+name = "Drowned Drop Tridents"
+filename = "drownsdroptridents.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hZ2kxkHI/versions/lMRIHM2y/drownsdroptridents.zip"
+hash-format = "sha512"
+hash = "5fd07da2e1e6643ae5944204ee96edd383f2e04ac9e68b2188f20bc61a6309cc36a3818a6216dd7b1f204daa2f3e77e5f6b70c496370f54a0331ebcff5b872f6"
+
+[update]
+[update.modrinth]
+mod-id = "hZ2kxkHI"
+version = "lMRIHM2y"

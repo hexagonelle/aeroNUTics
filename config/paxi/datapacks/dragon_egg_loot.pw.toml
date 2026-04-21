@@ -1,0 +1,8 @@
+name = "DragonEggLoot"
+filename = "DragonEggLoot.zip"
+side = "both"
+
+[download]
+url = "https://example.com"
+hash-format = "sha256"
+hash = "4723e8852a57118019beec1fa347eace2159fb02509ee8331ea3c950a32910d2"

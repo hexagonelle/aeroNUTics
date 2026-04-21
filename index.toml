@@ -2665,6 +2665,11 @@ file = "config/paxi/datapacks/drowneddroptridents.zip"
 hash = "a2f51c0717d54f3e6036ca2000b87cca7da76eb5f777b56dca47c67a21b86a6d"
 
 [[files]]
+file = "config/paxi/datapacks/drowns-drop-tridents.pw.toml"
+hash = "553b7a6be5f3b2d65bbf1d1725548640fd84b3d24b102b534a57f517f64fc517"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/mini blocks v1.1.5 (MC 1.21-1.21.11).zip"
 hash = "84ebd13d7a76ec35c4da8e9e444e6d8369cfb8f00726ab76ced6761fcc49e23c"
 

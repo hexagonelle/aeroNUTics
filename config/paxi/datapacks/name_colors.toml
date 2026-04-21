@@ -1,0 +1,8 @@
+name = "name colors v1.0.13 (MC 1.21-1.21.11)"
+filename = "name colors v1.0.13 (MC 1.21-1.21.11).zip"
+side = "both"
+
+[download]
+url = "https://example.com"
+hash-format = "sha256"
+hash = "4123acf5dfd33fd23d202c8d0850688d5a711b78c4d12f5421ef95c3f5cb2968"

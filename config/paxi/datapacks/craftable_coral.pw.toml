@@ -1,0 +1,8 @@
+name = "Craftable Coral"
+filename = "craftable_coral_block_2x2_MC1.21-1.21.11.zip"
+side = "both"
+
+[download]
+url = "https://example.com"
+hash-format = "sha256"
+hash = "d6dffaea8559e23f50da3deb91f1f10c874a2684755febf135d20dae736ec108"

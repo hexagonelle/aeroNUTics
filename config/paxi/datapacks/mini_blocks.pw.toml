@@ -1,0 +1,8 @@
+name = "mini blocks v1.1.5 (MC 1.21-1.21.11)"
+filename = "mini blocks v1.1.5 (MC 1.21-1.21.11).zip"
+side = "both"
+
+[download]
+url = "https://example.com"
+hash-format = "sha256"
+hash = "84ebd13d7a76ec35c4da8e9e444e6d8369cfb8f00726ab76ced6761fcc49e23c"

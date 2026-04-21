@@ -1,0 +1,8 @@
+name = "more_trapdoors_MC1.21-1.21.11"
+filename = "more_trapdoors_MC1.21-1.21.11.zip"
+side = "both"
+
+[download]
+url = "https://example.com"
+hash-format = "sha256"
+hash = "e8b06e5acf97ecec6d31fd3535e49eaabd368dbbfa372394111366a0d2c33806"

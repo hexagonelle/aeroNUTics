@@ -1,0 +1,8 @@
+name = "Craftable Gravel"
+filename = "craftable_gravel_MC1.21-1.21.11.zip"
+side = "both"
+
+[download]
+url = "https://example.com"
+hash-format = "sha256"
+hash = "b53de3a9bdc8086cfb095a0adc9cdda8aaa9334a7803706ccda6167c1b3134ef"
