@@ -5046,7 +5046,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/asyasas-legacy-copper.pw.toml"
-hash = "9995fc0f9650e6edfb2fc94c76a036cdb30a680b356fd36be0b5237984b13ae9"
+hash = "09ccee622071d57827fb6059f697309232609261aa43ef6d2eec3d511e88764d"
 metafile = true
 
 [[files]]
@@ -5066,6 +5066,11 @@ hash = "9ff54d3942955745daad064f98965d115a65618c39e96726ec3bde5e85000860"
 [[files]]
 file = "resourcepacks/compressedblocks.toml"
 hash = "199bf686d270962729a7de33a02f0060efebd3651dd1c5e8155e79f2f906716e"
+
+[[files]]
+file = "resourcepacks/create-legacy-copper-continued.pw.toml"
+hash = "5d1ad5d5cf20934f67868d5f33280bc8c0e1a7fe6ab414c9d07f4f950d34ba3c"
+metafile = true
 
 [[files]]
 file = "resourcepacks/create-sophisticated-backpacks.pw.toml"

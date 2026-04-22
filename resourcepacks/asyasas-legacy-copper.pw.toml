@@ -1,13 +1,13 @@
 name = "AsYasya's Legacy Copper"
-filename = "AsYasya's Legacy Copper.zip"
+filename = "AsYasya's Legacy Copper [OG Textures].zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/pxxzim58/versions/JLonJrBQ/AsYasya%27s%20Legacy%20Copper.zip"
+url = "https://cdn.modrinth.com/data/pxxzim58/versions/Xsv06ew5/AsYasya%27s%20Legacy%20Copper%20%5BOG%20Textures%5D.zip"
 hash-format = "sha512"
-hash = "7c871a9325d95f9e2e77d886132e208defc7a91d9a767ffcebf184c7b64089b9d2f9a983c2d221d3c822881cb539b38fb3d8d3a353e7e3873a05c4e049333414"
+hash = "5e67f2ab1fe47fe03aa8682924c99f7d61905ac6ee959ee52ecc4664b226eb9ac6fdcab98dca9d1711ff378d5c39ac15ff8686e0dc91dff19ea5fc834bfb6cff"
 
 [update]
 [update.modrinth]
 mod-id = "pxxzim58"
-version = "JLonJrBQ"
+version = "Xsv06ew5"

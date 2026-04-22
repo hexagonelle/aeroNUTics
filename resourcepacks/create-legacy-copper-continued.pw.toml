@@ -1,0 +1,13 @@
+name = "Create: Legacy Copper Continued"
+filename = "LegacyCopperContinued-1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZJWIVNNR/versions/4zrm1Xp5/LegacyCopperContinued-1.2.zip"
+hash-format = "sha512"
+hash = "b9270f5123c8fb3a86c0c44d42d1e9415b811d3345cc23beef04c054ac0d594843eeb3539132eb53137c7afa7c66f94e59d365e3ac2d3bca63c1f75a06ff8a06"
+
+[update]
+[update.modrinth]
+mod-id = "ZJWIVNNR"
+version = "4zrm1Xp5"
