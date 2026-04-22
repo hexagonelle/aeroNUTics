@@ -2792,7 +2792,7 @@ hash = "91b28acace54fb44b1111e2cf22b4245dc7452416818a4c03eb3e1b314ee1dc2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "501e4411812bf73d136b3d124bddf8246ae423e3622ddcaf051dc85742dd1d2d"
+hash = "7b79f523440371bed9b4afee8178169807b7d3b4f05c5ccc0fe73a4e04cd6896"
 
 [[files]]
 file = "config/responsive-shields.toml"
