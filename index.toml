@@ -3586,11 +3586,6 @@ hash = "8d7b54614f4aa33c4d89e11ed0ec434095e66c80c9557b4e91311ee684227ade"
 metafile = true
 
 [[files]]
-file = "mods/athena.pw.toml"
-hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
-metafile = true
-
-[[files]]
 file = "mods/atlas-api.pw.toml"
 hash = "8c6d5170ca4f3e42a3ff45ec2891a24fef98ab136f3e427fc34af23564d9e7dc"
 metafile = true
@@ -3881,11 +3876,6 @@ hash = "568d6f5258008c888050a790365ad3fe292a3f5606e95f154010060b895032d5"
 metafile = true
 
 [[files]]
-file = "mods/create-liquid-fuel.pw.toml"
-hash = "2af9229718d9edb1eaa4b88fac0063ab2f5f7ba7650a4efa5f0a8e6ce25549cd"
-metafile = true
-
-[[files]]
 file = "mods/create-low-heated.pw.toml"
 hash = "fe7b580b2d5d40a67c057f267a58a0b786e2d6a4e794ceb822b98ed4de21f5f3"
 metafile = true
@@ -3998,6 +3988,11 @@ metafile = true
 [[files]]
 file = "mods/create_oxidized.pw.toml"
 hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
 metafile = true
 
 [[files]]
@@ -4432,7 +4427,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "4a38ddbeb3b985bf5a8275853cf4e5da7bbbe48c7671a3dcc20e3a0faa0d43b1"
+hash = "1d9c29bc4fc74b4dfc169ac94f440b9ad5a9cb18971217e0a5c3f7b595be6854"
 metafile = true
 
 [[files]]
