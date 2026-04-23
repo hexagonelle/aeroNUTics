@@ -1,13 +1,13 @@
 name = "Create：FluidLogistic"
-filename = "fluidlogistics-0.9.5.jar"
+filename = "fluidlogistics-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/g4AWLVIr/versions/uEn5mQTm/fluidlogistics-0.9.5.jar"
+url = "https://cdn.modrinth.com/data/g4AWLVIr/versions/ZnAbKyua/fluidlogistics-1.0.1.jar"
 hash-format = "sha512"
-hash = "b23e4a7852896c39e0a96ab074874c5f59a3025d6e61bb88aea947275196481affcdcd64e28f06156df6e3aa05c61d2d5680b8e56a3d5d57f4e73e9661688afc"
+hash = "e4194abd612be8ff4a620d18457bf5094c5491e3abf896c57675d3d9a41e102e0c1b962711f94c1d7f795a7c6eb0445444efa989044f81dd9a291aed10e2081d"
 
 [update]
 [update.modrinth]
 mod-id = "g4AWLVIr"
-version = "uEn5mQTm"
+version = "ZnAbKyua"

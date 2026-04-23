@@ -1,6 +1,7 @@
 name = "AsYasya's Legacy Copper"
 filename = "AsYasya's Legacy Copper [OG Textures].zip"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/pxxzim58/versions/Xsv06ew5/AsYasya%27s%20Legacy%20Copper%20%5BOG%20Textures%5D.zip"
