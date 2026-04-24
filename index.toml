@@ -3180,7 +3180,7 @@ file = "kubejs/server_scripts/almostunified.js"
 hash = "ec30e925e73cec597c2cf780d3bd3193a56187ce93a3ba25cb69da44574b6cb1"
 
 [[files]]
-file = "kubejs/server_scripts/apotheosis.js"
+file = "kubejs/server_scripts/apotheosis.js.bak"
 hash = "40440af259299197bd68886fabb4d006a9c04bbadb160d67280fd663c201e9a9"
 
 [[files]]
@@ -3208,7 +3208,7 @@ file = "kubejs/server_scripts/cobblegen.js"
 hash = "97c019f4fe9b12c68004c1c4546eb1f92dc2780ff12c6f7d8910f28e83d8c845"
 
 [[files]]
-file = "kubejs/server_scripts/coppertuffbackport_quark.js"
+file = "kubejs/server_scripts/coppertuffbackport_quark.js.bak"
 hash = "539af23628cc811dcd2961966f42e700fbac24ad463f904bba8420019eb10609"
 
 [[files]]
@@ -3228,7 +3228,7 @@ file = "kubejs/server_scripts/create_embers.js.bak"
 hash = "db4e154ba80a78f23b22aae21127e401988b6289bfb1870ead803fea38726f42"
 
 [[files]]
-file = "kubejs/server_scripts/create_immersiveaircrafts.js"
+file = "kubejs/server_scripts/create_immersiveaircrafts.js.bak"
 hash = "1704ccd7ac6112be7c6e1e0fd9efeae0c5190ba1ede8af39ae4a7b2f43648415"
 
 [[files]]
@@ -3236,7 +3236,7 @@ file = "kubejs/server_scripts/create_quark.js"
 hash = "0bdfe2d3875afbfbb06986319bc1d70a7c825098fec04fc60face338df006993"
 
 [[files]]
-file = "kubejs/server_scripts/create_silentgear.js"
+file = "kubejs/server_scripts/create_silentgear.js.bak"
 hash = "72e32afc959af8a22bb83571595497df4d62ab6f17995191a2d66a53868e3c85"
 
 [[files]]
@@ -3246,10 +3246,6 @@ hash = "0fa2b368de53965ba4c7c54543ce44a4d2263cb171208a1ac8790468df08a164"
 [[files]]
 file = "kubejs/server_scripts/creategbd.js"
 hash = "76cbf9d30411ad1c2357e71c803dae0d46859c53be18049d887339dca6eb40f1"
-
-[[files]]
-file = "kubejs/server_scripts/createhenry.js"
-hash = "924359d6d1c034101fc27ac4353b4172dee56a8825d88b783847df9128132076"
 
 [[files]]
 file = "kubejs/server_scripts/createhighpressure.js"
@@ -3284,7 +3280,7 @@ file = "kubejs/server_scripts/custom-compressedblocks_quark.js"
 hash = "6b312d6ad0d8d0f0f681563fc330be3e386dc09286115647510b5d69ed40641e"
 
 [[files]]
-file = "kubejs/server_scripts/custom-huelamps.js"
+file = "kubejs/server_scripts/custom-huelamps.js.bak"
 hash = "f505658aa7694962c2a461ea6208ee07023e465e986aaef80e220d8a6542dce7"
 
 [[files]]
@@ -3352,7 +3348,7 @@ file = "kubejs/server_scripts/farmersdelight_quark.js"
 hash = "f7c8c38d915a12d0462039b1fe845432642a06e6aa39a6887409708e1bc0a902"
 
 [[files]]
-file = "kubejs/server_scripts/farmersdelight_silentgear.js"
+file = "kubejs/server_scripts/farmersdelight_silentgear.js.bak"
 hash = "28b393247a20456b1217014cb6b18ca61c04edeffb4008914275d69ac4dc7d09"
 
 [[files]]
@@ -3408,7 +3404,7 @@ file = "kubejs/server_scripts/rituals.js"
 hash = "ea5990cbae7af44145c1b29203e65753c1f9c7ee360c3c40e2cf0b7214533127"
 
 [[files]]
-file = "kubejs/server_scripts/silentgear.js"
+file = "kubejs/server_scripts/silentgear.js.bak"
 hash = "fcf377c0249d24d151b7582531796854f1da5e7b10b0365250e23dc0e1288440"
 
 [[files]]
