@@ -1,6 +1,7 @@
 name = "Sophisticated Quark"
 filename = "Sophisticated Quark.zip"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/v3S3PGn8/versions/U3RXovkh/Sophisticated%20Quark.zip"

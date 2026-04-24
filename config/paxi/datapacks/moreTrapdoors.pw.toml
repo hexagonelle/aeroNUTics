@@ -1,6 +1,7 @@
 name = "more_trapdoors_MC1.21-1.21.11"
 filename = "more_trapdoors_MC1.21-1.21.11.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://example.com"

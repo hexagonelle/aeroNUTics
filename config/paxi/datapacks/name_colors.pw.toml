@@ -1,6 +1,7 @@
 name = "name colors v1.0.13 (MC 1.21-1.21.11)"
 filename = "name colors v1.0.13 (MC 1.21-1.21.11).zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://example.com"

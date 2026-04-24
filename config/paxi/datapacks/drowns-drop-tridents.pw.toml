@@ -1,6 +1,7 @@
 name = "Drowned Drop Tridents"
 filename = "drownsdroptridents.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/hZ2kxkHI/versions/lMRIHM2y/drownsdroptridents.zip"

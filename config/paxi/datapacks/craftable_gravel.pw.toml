@@ -1,6 +1,7 @@
 name = "Craftable Gravel"
 filename = "craftable_gravel_MC1.21-1.21.11.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://example.com"

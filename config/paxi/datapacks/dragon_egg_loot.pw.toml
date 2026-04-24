@@ -1,6 +1,7 @@
 name = "DragonEggLoot"
 filename = "DragonEggLoot.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://example.com"

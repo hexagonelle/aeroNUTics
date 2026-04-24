@@ -1,6 +1,7 @@
 name = "Double Shulker"
 filename = "double shulker shells v1.3.15 (MC 1.21-1.21.11).zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://example.com"

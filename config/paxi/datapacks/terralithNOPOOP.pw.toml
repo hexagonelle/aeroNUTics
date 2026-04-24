@@ -1,6 +1,7 @@
 name = "terralith_no_poop"
 filename = "terralith_no_poop.zip"
 side = "both"
+pin = true
 
 [download]
 url = "https://example.com"

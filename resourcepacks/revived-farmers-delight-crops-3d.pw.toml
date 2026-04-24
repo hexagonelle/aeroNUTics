@@ -1,6 +1,7 @@
 name = "REVIVED Farmer's Delight crops 3D"
 filename = "REVIVED_Farmer's Delight_crops_3D_R1.5.1-1.20.x.zip"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/TVo0lkHH/versions/3tim7pJi/REVIVED_Farmer%27s%20Delight_crops_3D_R1.5.1-1.20.x.zip"

@@ -2642,53 +2642,58 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/datapacks/craftable_coral.pw.toml"
-hash = "dd9d00c11ee297aa15285cd4e9c30f79a69c3decf4c3ad86144510b636e5cb28"
+hash = "69e271c8b118145f529b02c5d2c22512f35e31db25dce7e3870d315ba4358d6b"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/craftable_gravel.pw.toml"
-hash = "83b728dc9ab5023fd8ca7fbf62c5ba40d6f59dc5d62c072bf28e402335939b1c"
+hash = "8f712a5f2c49c4a9920373d0df94dfef6354b116465c5a8b915852e6850cc3c4"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/doubleShulker.pw.toml"
-hash = "83041feac596026ec51c018486a5cba93ca1e1b7a73b60fd81c3c418cdec0d49"
+hash = "27d071e9155336334a1fd84b036a24572ecc5a85453feb68009bed10eac53eb0"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/dragon_egg_loot.pw.toml"
-hash = "2cb611e0849fb7df3ccd8539fe0c62b159fb446b3fa08cba671c7252d86caac9"
+hash = "867295f9a01fcab8eeb22cf81df693990e00a97bc89e8030dfd4abb99bb7ed84"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/drowns-drop-tridents.pw.toml"
-hash = "553b7a6be5f3b2d65bbf1d1725548640fd84b3d24b102b534a57f517f64fc517"
+hash = "ea7eb618eecd6608bef79a61869f2ad510833693f38a2b778fc655d757c2f8eb"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/mini_blocks.pw.toml"
-hash = "223ff6ccc0fb0c651c9ce09ba9f804dd731f9c7a12792cc8cb74f06dd2e29cf3"
+hash = "f21c8780002824fd4b3bd0af2d0be16bbe03adf9881907d61284bf617625081b"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/moreTrapdoors.toml"
-hash = "610d5c3cf7109b61f5fcb82611672c8bd153d20afe9f43b2e7b193e3640ef636"
+file = "config/paxi/datapacks/moreTrapdoors.pw.toml"
+hash = "787cb503b4bbcc7192da9c3d573e447fbcf7467813a2e5dabdd30214db43c2af"
+metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/name_colors.toml"
-hash = "c87a7128a20bec578c440b2a613effcede8038842fdf0a685592b4bf0807c4c1"
+file = "config/paxi/datapacks/name_colors.pw.toml"
+hash = "be6d4259cc7a2adc9e50df92a6d9073a3b93f59085e8ecdd187b21f109c542f0"
+metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/terralithNOPOOP.toml"
-hash = "39da7648e2f8d59b49bed9191c014dc6995a3eb6c1356a8a9883c5dc10934957"
+file = "config/paxi/datapacks/terralithNOPOOP.pw.toml"
+hash = "d99ec484ec82219cc08a29af54f83e7ac7108712fc99c701290f6d2244f29f74"
+metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/villagerDeathMessage.toml"
-hash = "26b4226b784655b324565e90c16b3d0fa62d576c0ce6c5e9ff5476fa26228305"
+file = "config/paxi/datapacks/villagerDeathMessage.pw.toml"
+hash = "fad96b4b321ff2618e7f282a3ae4ad2376f8775532360bc6bab0f3fe8dd0bbff"
+metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/villagerWorkstation.toml"
-hash = "a72ac08847fd13fee05f011ee970fc4db9a6fc904098d5c67dd19059e36651a6"
+file = "config/paxi/datapacks/villagerWorkstation.pw.toml"
+hash = "93204d5ec2d85352a058f0dd93edf6f6cff53bff4398b8c265be7ad4682c1157"
+metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -4172,6 +4177,11 @@ hash = "eb9b9703163fc44d7538703aeff287fd7f3e83da44829ec6901cdff0c165a1c6"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "e5c471aaab9047178ad25e91d28240fefd7b6e48d52af4274bc53239eb1da8c6"
+metafile = true
+
+[[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "3c50e06edc3cd34bb3fd519f42b71e662a3a5aa12a90f828209a7490bca5f521"
 metafile = true
@@ -4402,11 +4412,6 @@ hash = "5197ac84b7bffaf24dffdb2974dc23fb94d31a10f26a1d165ab36816be835238"
 metafile = true
 
 [[files]]
-file = "mods/leaves-be-gone.pw.toml"
-hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
-metafile = true
-
-[[files]]
 file = "mods/libipn.pw.toml"
 hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
 metafile = true
@@ -4488,7 +4493,7 @@ metafile = true
 
 [[files]]
 file = "mods/modular-item-api.pw.toml"
-hash = "f49d971d6e038475f6960ed2620eb6e21499c3774fcb660593883c1ef45eb60a"
+hash = "00c44d5d815b525ba686f7bfb2176c1c2c375ab1e5f126fedfb653ccbaf231b5"
 metafile = true
 
 [[files]]
@@ -4613,12 +4618,12 @@ metafile = true
 
 [[files]]
 file = "mods/petrolpark.pw.toml"
-hash = "24251b653079b725cb74ac69f33739c4fd3168cfa157ad043f3eb9c7ffcfee42"
+hash = "8a6acb4aae4cd574cc623fd3251b57f569de45b9e757f0d8c10e1274db888d86"
 metafile = true
 
 [[files]]
 file = "mods/petrols-parts.pw.toml"
-hash = "41bf8eb3eea5e3295036dc267215af9d734e08b2461842e559a1606d228fceca"
+hash = "9421934b10433b6a421bd7c2d38a3c59023c316f17a4e9d7ce6152e7e039da85"
 metafile = true
 
 [[files]]
@@ -4808,7 +4813,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "f56a940476362df4007f7395e26f62fd0a8aace62da5ee0e6a48c9e87f45270b"
+hash = "55b8a23c2f324946097c5d4fe57c1f9d05e356752c8e96ee93287b0b311bf84f"
 metafile = true
 
 [[files]]
@@ -4834,6 +4839,11 @@ metafile = true
 [[files]]
 file = "mods/stackablepotions.pw.toml"
 hash = "fdd1b059d59daa27b007f61c1a06a1f111c7b1bef511952106c26caf8744406c"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "2f809d67663e54f80baff9e541baa5f0373701cf718aba670f0c52c14f7681e9"
 metafile = true
 
 [[files]]
@@ -5032,8 +5042,9 @@ hash = "82e610917524c6f1af58e102a1be333665ee9af1649477aae0546a30d1ae3114"
 metafile = true
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r175773_MC1.21.x.toml"
+file = "resourcepacks/VanillaTweaks_r175773_MC1.21.x.pw.toml"
 hash = "93ad817bfdc91e01e2037e6440e8277a4e6121dafa761190930c26206a458c85"
+metafile = true
 
 [[files]]
 file = "resourcepacks/armory-conglomery.pw.toml"
@@ -5056,12 +5067,14 @@ hash = "dc2786ed4797929fc53b45fe11e6e43078b3ffdb4c0a235bbb463c122f4b5bf5"
 metafile = true
 
 [[files]]
-file = "resourcepacks/charred.toml"
+file = "resourcepacks/charred.pw.toml"
 hash = "9ff54d3942955745daad064f98965d115a65618c39e96726ec3bde5e85000860"
+metafile = true
 
 [[files]]
-file = "resourcepacks/compressedblocks.toml"
+file = "resourcepacks/compressedblocks.pw.toml"
 hash = "199bf686d270962729a7de33a02f0060efebd3651dd1c5e8155e79f2f906716e"
+metafile = true
 
 [[files]]
 file = "resourcepacks/create-legacy-copper-continued.pw.toml"
@@ -5079,8 +5092,9 @@ hash = "6d198fcead3ae516d33d9011f3ecf9717a72b963aadea7a6b3ad7f0c7cada070"
 metafile = true
 
 [[files]]
-file = "resourcepacks/explorercompassretext.toml"
+file = "resourcepacks/explorercompassretext.pw.toml"
 hash = "3e41e17de4cfd3aee3dacb8bd03f1d7313b2c3a92206892954612feb0a7929c8"
+metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
@@ -5098,16 +5112,18 @@ hash = "dc207c87df190d6a8c0d9558bc5a7b7a119c652e4d4da1f52079b22064cf9d4e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/malum-excavatedvariants.toml"
+file = "resourcepacks/malum-excavatedvariants.pw.toml"
 hash = "bf1e1c520e6a96360079f5ab9dc3464e6381e8019b26226716720253db875399"
+metafile = true
 
 [[files]]
-file = "resourcepacks/merchantFix.toml"
+file = "resourcepacks/merchantFix.pw.toml"
 hash = "3b2de70c6de0031f7674966db4b71171577829e655f1b40052296cd93ba0142f"
+metafile = true
 
 [[files]]
 file = "resourcepacks/mobs-refreshed-+-fresh-animations.pw.toml"
-hash = "14c958fa07ef8887020adddba0e80d64599d62cc99b3f2e79fb2b8344b8cf118"
+hash = "b9048d2bfc8c379411e84b5b98c52b9b8a59ba8815f3b66903204cc07a4e246d"
 metafile = true
 
 [[files]]
@@ -5117,7 +5133,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/revived-farmers-delight-crops-3d.pw.toml"
-hash = "9960ade10e14065c58bfb9741b5047ca8e8e9bd6827df44839f10f74f553a317"
+hash = "83664aaab32b60d3c4a32279d9052df9ffb4d8cbe6d3509b1ca1d972f7807b58"
 metafile = true
 
 [[files]]
@@ -5127,7 +5143,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/sophisticated-quark.pw.toml"
-hash = "e1e8611a93ee4bd1646d6327d60db908c12e9cf88e7c447f205eddb6a6080f81"
+hash = "5a09640a66477b42d685aa0dbb1b0ce75ed10e9cf4cff986eb71ced1ad4adee4"
 metafile = true
 
 [[files]]
@@ -5137,7 +5153,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/villagers-refreshed-+-fresh-animations.pw.toml"
-hash = "b7a7b654984ce155fd1d9909e452a7305a3960a7c45a219976a9630cfabd67bc"
+hash = "31744e033505b688982e18cfeed972b94cc680b7e9decb0dd51cc52959fb54a5"
 metafile = true
 
 [[files]]
